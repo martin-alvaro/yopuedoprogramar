@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@200&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../style/style.css">
+    <title>Equipo de 2022</title>
+</head>
+
+
+<body  class="custom-scrollbar">
+    <header>
+        <div class="cont-img">
+            <img src="https://i.pinimg.com/236x/8b/98/d0/8b98d0379cceb8f0fc4df41aed9f0dc2.jpg" alt="Argentina">
+        </div>
+        <div>
+            <h1>"Campeones Argentinos"</h1>
+            <nav class="nav">
+                <ul>
+                    <li><a href="../index.html">Inicio</a></li>
+                    <li class="dropdown">
+                        <button>Ver equipo</button>
+                        <ul class="dropdown-content">
+                            <li><a href="./1978.html">Mundial Argentina(1978)</a></li>
+                            <li><a href="./1986.html">Mundial México(1986)</a></li>
+                            <li><a href="./2022.html">Mundial Qatar(2022)</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+
+    </header>
+    <main  class="fondo-equipo">
+        <div class="equipo">
+            <h2> 2022</h2>
+            <h2> Once inicial</h2>
+        </div>
+
+
+        <section id="jugadores">
+
+        </section>
+    </main>
+    <script src="../index.js"></script>
+    <script>
+        obtenerDatos('../data/2022.json');
+    </script>
+
+</body>
+
+
+</html>

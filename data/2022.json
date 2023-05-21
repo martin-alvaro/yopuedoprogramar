@@ -1,0 +1,91 @@
+[
+    {
+        "nombre": "Emiliano Martinez",
+        "numero": 23,
+        "pie": "derecho",
+        "posicion": "arquero",
+        "edad": 30,
+        "imagen": "https://img.a.transfermarkt.technology/portrait/header/111873-1668180824.jpg?lm=1"
+    },
+    {
+        "numero": 19,
+        "nombre": "Nicolás Otamendi",
+        "pie": "derecho",
+        "posicion": "defensor",
+        "edad": 35,
+        "imagen": "https://img.a.transfermarkt.technology/portrait/header/54781-1669835534.jpg?lm=1"
+    },
+    {
+        "numero": 13,
+        "nombre": "Cristian Romero",
+        "pie": "derecho",
+        "posicion": "defensor",
+        "edad": 25,
+        "imagen": "https://img.a.transfermarkt.technology/portrait/header/355915-1665609429.jpg?lm=1"
+    },
+    {
+        "numero": 3,
+        "nombre": "Nicolás Tagliafico",
+        "pie": "izquierdo",
+        "posicion": "defensor",
+        "edad": 30,
+        "imagen": "https://img.a.transfermarkt.technology/portrait/header/131225-1668181437.jpg?lm=1"
+    },
+    {
+        "numero": 26,
+        "nombre": "Nahuel Molina",
+        "pie": "derecho",
+        "posicion": "defensor",
+        "edad": 25,
+        "imagen": "https://img.a.transfermarkt.technology/portrait/header/424042-1629455297.jpg?lm=1"
+    },
+    {
+        "numero": 24,
+        "nombre": "Enzo Fernández",
+        "pie": "derecho",
+        "posicion": "centrocampista",
+        "edad": 22,
+        "imagen": "https://img.a.transfermarkt.technology/portrait/header/648195-1669894717.jpg?lm=1"
+    },
+    {
+        "numero": 20,
+        "nombre": "Alexis Mac Allister",
+        "pie": "derecho",
+        "posicion": "centrocampista",
+        "edad": 24,
+        "imagen": "https://img.a.transfermarkt.technology/portrait/header/534033-1669835342.jpg?lm=1"
+    },
+    {
+        "numero": 7,
+        "nombre": "Rodrigo de Paul",
+        "pie": "derecho",
+        "posicion": "centrocampista",
+        "edad": 28,
+        "imagen": "https://img.a.transfermarkt.technology/portrait/header/255901-1623838716.jpg?lm=1"
+    },
+    {
+        "numero": 11,
+        "nombre": "Ángel Di María",
+        "pie": "izquierdo",
+        "posicion": "dalantero",
+        "edad": 35,
+        "imagen": "https://img.a.transfermarkt.technology/portrait/header/45320-1663576797.jpg?lm=1"
+    },
+    {
+        "numero": 10,
+        "nombre": "Lionel Messi",
+        "pie": "izquierdo",
+        "posicion": "dalantero",
+        "edad": 35,
+        "imagen": "https://img.a.transfermarkt.technology/portrait/header/28003-1671435885.jpg?lm=1"
+    },
+    {
+        "numero": 9,
+        "nombre": "Julián Álvarez",
+        "pie": "derecho",
+        "posicion": "dalantero",
+        "edad": 23,
+        "imagen": "https://img.a.transfermarkt.technology/portrait/header/576024-1661978290.jpg?lm=1"
+    }
+    
+]

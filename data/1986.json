@@ -1,0 +1,89 @@
+[{
+        "nombre": "Nery Pumpido",
+        "numero": 18,
+        "imagen": "https://img.a.transfermarkt.technology/portrait/header/s_116737_123_2012_1.jpg?lm=1",
+        "pie": "derecho",
+        "posicion": "arquero",
+        "edad": 27
+    },
+    {
+        "numero":19,
+        "nombre": "Oscar Ruggeri",
+        "pie": "derecho",
+        "posicion": "defensor",
+        "imagen":"https://img.a.transfermarkt.technology/portrait/header/s_102214_123_2012_1.jpg?lm=1",
+        "edad": 23
+    },
+    {
+        "numero": 5,
+        "nombre": "José Luis Brown",
+        "pie": "derecho",
+        "posicion": "defensor",
+        "imagen":"https://img.a.transfermarkt.technology/portrait/header/116686-1670857796.jpg?lm=1",
+        "edad": 28
+    },
+    {
+        "numero": 16,
+        "nombre": "Julio Olarticoechea",
+        "pie": "izquierdo",
+        "posicion": "defensor",
+        "imagen":"https://img.a.transfermarkt.technology/portrait/header/106979-1630586839.jpg?lm=1",
+        "edad": 26
+    },
+    {
+        "numero": 9,
+        "nombre": "José Luis Cuciuffo",
+        "pie": "derecho",
+        "posicion": "defensor",
+        "imagen":"https://img.a.transfermarkt.technology/portrait/header/116699-1670858071.jpg?lm=1",
+        "edad": 24
+    },
+    {
+        "numero": 2,
+        "nombre": "Sergio Batista",
+        "pie": "derecho",
+        "posicion": "mediocampista",
+        "imagen":"https://img.a.transfermarkt.technology/portrait/header/106970-1670857900.jpg?lm=1",
+        "edad": 22
+    },
+    {
+        "numero": 12,
+        "nombre": "Héctor Enrique",
+        "pie": "derecho",
+        "posicion": "mediocampista",
+        "imagen":"https://img.a.transfermarkt.technology/portrait/header/116704-1630588588.jpg?lm=1",
+        "edad": 23
+    },
+    {
+        "numero": 14,
+        "nombre": "Ricardo Giusti",
+        "pie": "derecho",
+        "posicion": "mediocampista",
+        "imagen":"https://img.a.transfermarkt.technology/portrait/header/106976-1630507868.jpg?lm=1",
+        "edad": 28
+    },
+    {
+        "numero": 11,
+        "nombre": "Jorge Valdano",
+        "pie": "derecho",
+        "posicion": "delantero",
+        "imagen":"https://img.a.transfermarkt.technology/portrait/header/116747-1544088948.jpg?lm=1",
+        "edad": 29
+    },
+    {
+        "numero": 10,
+        "nombre": "Diego Maradona",
+        "pie": "izquierdo",
+        "posicion": "delantero",
+        "imagen":"https://img.a.transfermarkt.technology/portrait/header/8024-1606322777.png?lm=1",
+        "edad": 24
+    },
+    {
+        "numero": 11,
+        "nombre": "Jorge Burruchaga",
+        "pie": "derecho",
+        "posicion": "mediocampista",
+        "imagen":"https://img.a.transfermarkt.technology/portrait/header/s_106972_123_2012_1.jpg?lm=1",
+        "edad": 22
+    }
+]
