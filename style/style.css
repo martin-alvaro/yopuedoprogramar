@@ -165,7 +165,6 @@ header div:nth-child(2) {
     background-image: url('https://i.pinimg.com/564x/c9/b6/a0/c9b6a050650e981bdccab636fc49cfbc.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center right;
     color: white;
 }
 
@@ -194,6 +193,7 @@ header div:nth-child(2) {
     background-image: url('https://i.pinimg.com/564x/98/3f/db/983fdb34b526115ecc5a8c68f93687b6.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 5px 0;
 }
 
 
@@ -260,6 +260,15 @@ header div:nth-child(2) {
     text-align: center;
     padding-top: 40px;
     margin-bottom: 40px;
+}
+
+footer{
+    background-color: #75AADB;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 

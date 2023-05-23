@@ -1,7 +1,7 @@
 [{
         "nombre": "Nery Pumpido",
         "numero": 18,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/s_116737_123_2012_1.jpg?lm=1",
+        "imagen": "../img/1986/pumpido.webp",
         "pie": "derecho",
         "posicion": "arquero",
         "edad": 27
@@ -11,7 +11,7 @@
         "nombre": "Oscar Ruggeri",
         "pie": "derecho",
         "posicion": "defensor",
-        "imagen":"https://img.a.transfermarkt.technology/portrait/header/s_102214_123_2012_1.jpg?lm=1",
+        "imagen":"../img/1986/ruggeri.webp",
         "edad": 23
     },
     {
@@ -19,7 +19,7 @@
         "nombre": "José Luis Brown",
         "pie": "derecho",
         "posicion": "defensor",
-        "imagen":"https://img.a.transfermarkt.technology/portrait/header/116686-1670857796.jpg?lm=1",
+        "imagen":"../img/1986/brown.webp",
         "edad": 28
     },
     {
@@ -27,7 +27,7 @@
         "nombre": "Julio Olarticoechea",
         "pie": "izquierdo",
         "posicion": "defensor",
-        "imagen":"https://img.a.transfermarkt.technology/portrait/header/106979-1630586839.jpg?lm=1",
+        "imagen":"../img/1986/olarticoechea.webp",
         "edad": 26
     },
     {
@@ -35,7 +35,7 @@
         "nombre": "José Luis Cuciuffo",
         "pie": "derecho",
         "posicion": "defensor",
-        "imagen":"https://img.a.transfermarkt.technology/portrait/header/116699-1670858071.jpg?lm=1",
+        "imagen":"../img/1986/cuciuffo.webp",
         "edad": 24
     },
     {
@@ -43,7 +43,7 @@
         "nombre": "Sergio Batista",
         "pie": "derecho",
         "posicion": "mediocampista",
-        "imagen":"https://img.a.transfermarkt.technology/portrait/header/106970-1670857900.jpg?lm=1",
+        "imagen":"../img/1986/batista.webp",
         "edad": 22
     },
     {
@@ -51,7 +51,7 @@
         "nombre": "Héctor Enrique",
         "pie": "derecho",
         "posicion": "mediocampista",
-        "imagen":"https://img.a.transfermarkt.technology/portrait/header/116704-1630588588.jpg?lm=1",
+        "imagen":"../img/1986/enrique.webp",
         "edad": 23
     },
     {
@@ -59,7 +59,7 @@
         "nombre": "Ricardo Giusti",
         "pie": "derecho",
         "posicion": "mediocampista",
-        "imagen":"https://img.a.transfermarkt.technology/portrait/header/106976-1630507868.jpg?lm=1",
+        "imagen":"../img/1986/giusti.webp",
         "edad": 28
     },
     {
@@ -67,7 +67,7 @@
         "nombre": "Jorge Valdano",
         "pie": "derecho",
         "posicion": "delantero",
-        "imagen":"https://img.a.transfermarkt.technology/portrait/header/116747-1544088948.jpg?lm=1",
+        "imagen":"../img/1986/valdano.webp",
         "edad": 29
     },
     {
@@ -75,7 +75,7 @@
         "nombre": "Diego Maradona",
         "pie": "izquierdo",
         "posicion": "delantero",
-        "imagen":"https://img.a.transfermarkt.technology/portrait/header/8024-1606322777.png?lm=1",
+        "imagen":"../img/1986/maradona.webp",
         "edad": 24
     },
     {
@@ -83,7 +83,7 @@
         "nombre": "Jorge Burruchaga",
         "pie": "derecho",
         "posicion": "mediocampista",
-        "imagen":"https://img.a.transfermarkt.technology/portrait/header/s_106972_123_2012_1.jpg?lm=1",
+        "imagen":"../img/1986/burruchaga.webp",
         "edad": 22
     }
 ]

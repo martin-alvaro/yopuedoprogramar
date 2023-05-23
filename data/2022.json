@@ -5,7 +5,7 @@
         "pie": "derecho",
         "posicion": "arquero",
         "edad": 30,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/111873-1668180824.jpg?lm=1"
+        "imagen": "../img/2022/dibu.webp"
     },
     {
         "numero": 19,
@@ -13,7 +13,7 @@
         "pie": "derecho",
         "posicion": "defensor",
         "edad": 35,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/54781-1669835534.jpg?lm=1"
+        "imagen": "../img/2022/otamendi.webp"
     },
     {
         "numero": 13,
@@ -21,7 +21,7 @@
         "pie": "derecho",
         "posicion": "defensor",
         "edad": 25,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/355915-1665609429.jpg?lm=1"
+        "imagen": "../img/2022/cuti.webp"
     },
     {
         "numero": 3,
@@ -29,7 +29,7 @@
         "pie": "izquierdo",
         "posicion": "defensor",
         "edad": 30,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/131225-1668181437.jpg?lm=1"
+        "imagen": "../img/2022/tagliafico.webp"
     },
     {
         "numero": 26,
@@ -37,7 +37,7 @@
         "pie": "derecho",
         "posicion": "defensor",
         "edad": 25,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/424042-1629455297.jpg?lm=1"
+        "imagen": "../img/2022/molina.webp"
     },
     {
         "numero": 24,
@@ -45,7 +45,7 @@
         "pie": "derecho",
         "posicion": "centrocampista",
         "edad": 22,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/648195-1669894717.jpg?lm=1"
+        "imagen": "../img/2022/enzo.webp"
     },
     {
         "numero": 20,
@@ -53,7 +53,7 @@
         "pie": "derecho",
         "posicion": "centrocampista",
         "edad": 24,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/534033-1669835342.jpg?lm=1"
+        "imagen": "../img/2022/alexis.webp"
     },
     {
         "numero": 7,
@@ -61,7 +61,7 @@
         "pie": "derecho",
         "posicion": "centrocampista",
         "edad": 28,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/255901-1623838716.jpg?lm=1"
+        "imagen": "../img/2022/paul.webp"
     },
     {
         "numero": 11,
@@ -69,7 +69,7 @@
         "pie": "izquierdo",
         "posicion": "dalantero",
         "edad": 35,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/45320-1663576797.jpg?lm=1"
+        "imagen": "../img/2022/maria.webp"
     },
     {
         "numero": 10,
@@ -77,7 +77,7 @@
         "pie": "izquierdo",
         "posicion": "dalantero",
         "edad": 35,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/28003-1671435885.jpg?lm=1"
+        "imagen": "../img/2022/messi.webp"
     },
     {
         "numero": 9,
@@ -85,7 +85,7 @@
         "pie": "derecho",
         "posicion": "dalantero",
         "edad": 23,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/576024-1661978290.jpg?lm=1"
+        "imagen": "../img/2022/julian.webp"
     }
     
 ]

@@ -2,7 +2,7 @@
         "nombre": "Ubaldo Fillol",
         "numero": 5,
         "edad": 26,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/135806-1630507764.jpg?lm=1",
+        "imagen": "../img/1978/fillol.webp",
         "pie": "derecho",
         "posicion": "arquero"
     },
@@ -10,7 +10,7 @@
         "nombre": "Daniel Passarella",
         "numero": 19,
         "edad": 24,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/116735-1544094883.jpg?lm=1",
+        "imagen": "../img/1978/passarella.webp",
         "pie": "derecho",
         "posicion": "defensor"
     },
@@ -18,7 +18,7 @@
         "nombre": "Luis Galván",
         "numero": 7,
         "edad": 29,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/135808-1630586754.jpg?lm=1",
+        "imagen": "../img/1978/galvan.webp",
         "pie": "derecho",
         "posicion": "mediocampista"
     },
@@ -26,7 +26,7 @@
         "nombre": "Jorge Olguín",
         "numero": 15,
         "edad": 25,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/135812-1630507805.jpg?lm=1",
+        "imagen": "../img/1978/olguin.webp",
         "pie": "derecho",
         "posicion": "defensor"
     },
@@ -34,7 +34,7 @@
         "nombre": "Alberto Tarantini",
         "numero": 20,
         "edad": 21,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/135844-1630507906.jpg?lm=1",
+        "imagen": "../img/1978/tarantini.webp",
         "pie": "izquierdo",
         "posicion": "defensor"
     },
@@ -42,7 +42,7 @@
         "nombre": "Américo Gallego",
         "numero": 6,
         "edad": 22,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/135810-1630508005.jpg?lm=1",
+        "imagen": "../img/1978/gallego.webp",
         "pie": "derecho",
         "posicion": "mediocampista"
     },
@@ -50,7 +50,7 @@
         "nombre": "Osvaldo Ardiles",
         "numero": 2,
         "edad": 24,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/s_135800_123_2012_1.jpg?lm=1",
+        "imagen": "../img/1978/ardiles.webp",
         "pie": "derecho",
         "posicion": "mediocampista"
     },
@@ -58,7 +58,7 @@
         "nombre": "Oscar Alberto Ortiz",
         "numero": 16,
         "edad": 24,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/141862-1671437344.jpg?lm=1",
+        "imagen": "../img/1978/ortiz.webp",
         "pie": "derecho",
         "posicion": "mediocampista"
     },
@@ -66,7 +66,7 @@
         "nombre": "Daniel Bertoni",
         "numero": 4,
         "edad": 22,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/135804-1630586887.jpg?lm=1",
+        "imagen": "../img/1978/bertoni.webp",
         "pie": "derecho",
         "posicion": "mediocampista"
     },
@@ -74,7 +74,7 @@
         "nombre": "Mario Kempes",
         "numero": 10,
         "edad": 22,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/37264-1552559187.jpg?lm=1",
+        "imagen": "../img/1978/kempes.webp",
         "pie": "derecho",
         "posicion": "delantero"
     },
@@ -82,7 +82,7 @@
         "nombre": "Leopoldo Luque",
         "numero": 14,
         "edad": 28,
-        "imagen": "https://img.a.transfermarkt.technology/portrait/header/141861-1528820209.jpg?lm=1",
+        "imagen": "../img/1978/luque.webp",
         "pie": "derecho",
         "posicion": "delantero"
     }
